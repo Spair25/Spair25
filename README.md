@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Spair25
 - 👀 I’m interested in  програмирование
-- 🌱 I’m currently learning  в 7 классе
+- 🌱 I’m currently learning  в 10 классе
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  по почте: kostakasterin25@gmail.com
+
 
 <!---
 Spair25/Spair25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
